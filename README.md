@@ -1,0 +1,1 @@
+# Malarial-Detection-Using-PreTrained-Models
